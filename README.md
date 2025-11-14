@@ -1,7 +1,7 @@
 # EnItBabel
 A compact, didactic PyTorch implementation of a Seq2Seq Transformer for word-level machine translation.
 It includes a full training pipeline, checkpointing, and a CLI for greedy-decoding inference.
-Great for teaching, small experiments, and quick baselines.
+Great for teaching, small experiments, and quick baselines. 
 
 --------------------------------------------------
 FEATURES
